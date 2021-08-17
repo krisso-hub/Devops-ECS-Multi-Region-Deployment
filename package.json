@@ -1,0 +1,23 @@
+{
+  "name": "docker-sample",
+  "version": "1.0.0",
+  "description": "Readme!!",
+  "main": "server.js",
+  "dependencies": {
+    "aws-sdk": "^2.471.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/docker-sample"
+  },
+  "author": "",
+  "license": "ISC"
+}
